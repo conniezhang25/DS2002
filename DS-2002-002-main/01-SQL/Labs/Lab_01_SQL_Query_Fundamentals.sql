@@ -105,7 +105,17 @@ ON P.supplier_ids = S.id;
 -- ------------------------------------------------------------------
 -- 12). Number of Products per Category With Less Than 5 Units
 -- ------------------------------------------------------------------
+SELECT category
+, COUNT(*) AS units_in_stock
+FROM northwind.products
+GROUP BY category 
+HAVING units_in_stock < 5;
 
 -- ------------------------------------------------------------------
 -- 13). Number of Products per Category Priced Less Than $20.00
 -- ------------------------------------------------------------------
+SELECT category
+, COUNT(*) AS units_in_stock
+FROM northwind.products
+WHERE list_price < 20.00
+GROUP BY category 
