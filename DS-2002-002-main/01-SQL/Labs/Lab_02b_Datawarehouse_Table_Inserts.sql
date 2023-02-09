@@ -149,7 +149,7 @@ INSERT INTO `northwind_dw`.`fact_orders`
 `paid_date`,
 `tax_rate`,
 `order_status`,
-`order_details_status`)
+`order_details_status`);
 /* 
 --------------------------------------------------------------------------------------------------
 TODO: Write a SELECT Statement that:
