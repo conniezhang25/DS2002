@@ -149,7 +149,7 @@ INSERT INTO `northwind_dw`.`fact_orders`
 `paid_date`,
 `tax_rate`,
 `order_status`,
-`order_details_status`)
+`order_details_status`);
 /* 
 --------------------------------------------------------------------------------------------------
 TODO: Write a SELECT Statement that:
@@ -162,8 +162,37 @@ TODO: Write a SELECT Statement that:
 - columns you're required to extract from each of the four tables. Pay close attention!
 --------------------------------------------------------------------------------------------------
 */
-
+CREATE TABLE fact_orders AS
+SELECT o.id, 
+	o.employee_id, 
+	o.customer_id, 
+	od.product_id, 
+	o.shipper_id, 
+	o.ship_name, 
+	o.ship_address, 
+	o.ship_city, 
+	o.ship_state_province, 
+	o.ship_zip_postal_code, 
+	o.ship_country_region, 
+	od.quantity, 
+	o.order_date, 
+	o.shipped_date,
+	od.unit_price, 
+	od.discount,
+	o.shipping_fee,
+	o.payment_type, 
+	o.paid_date, 
+	o.tax_rate, 
+	os.status_name AS order_status, 
+	ods.status_name AS order_details_status 
+FROM northwind.orders AS o
+INNER JOIN northwind.orders_status AS os
+ON o.status_id = os.fact_ordersid
+RIGHT OUTER JOIN northwind.order_details AS od
+ON o.id = od.order_id
+INNER JOIN northwind.order_details_status AS ods
+ON od.status_id = ods.id;
 -- ----------------------------------------------
 -- Validate that the Data was Inserted ----------
 -- ----------------------------------------------
-SELECT * FROM northwind_dw.fact_orders;
+SELECT * FROM northwind_dw3.fact_orders;
