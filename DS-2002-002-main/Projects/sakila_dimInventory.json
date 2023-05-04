@@ -1,0 +1,8002 @@
+[
+	{
+		"inventory_id" : 1,
+		"title" : "ACADEMY DINOSAUR",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 2,
+		"title" : "ACADEMY DINOSAUR",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 3,
+		"title" : "ACADEMY DINOSAUR",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 4,
+		"title" : "ACADEMY DINOSAUR",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 5,
+		"title" : "ACADEMY DINOSAUR",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 6,
+		"title" : "ACADEMY DINOSAUR",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 7,
+		"title" : "ACADEMY DINOSAUR",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 8,
+		"title" : "ACADEMY DINOSAUR",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 9,
+		"title" : "ACE GOLDFINGER",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 10,
+		"title" : "ACE GOLDFINGER",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 11,
+		"title" : "ACE GOLDFINGER",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 12,
+		"title" : "ADAPTATION HOLES",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 13,
+		"title" : "ADAPTATION HOLES",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 14,
+		"title" : "ADAPTATION HOLES",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 15,
+		"title" : "ADAPTATION HOLES",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 16,
+		"title" : "AFFAIR PREJUDICE",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 17,
+		"title" : "AFFAIR PREJUDICE",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 18,
+		"title" : "AFFAIR PREJUDICE",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 19,
+		"title" : "AFFAIR PREJUDICE",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 20,
+		"title" : "AFFAIR PREJUDICE",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 21,
+		"title" : "AFFAIR PREJUDICE",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 22,
+		"title" : "AFFAIR PREJUDICE",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 23,
+		"title" : "AFRICAN EGG",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 24,
+		"title" : "AFRICAN EGG",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 25,
+		"title" : "AFRICAN EGG",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 26,
+		"title" : "AGENT TRUMAN",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 27,
+		"title" : "AGENT TRUMAN",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 28,
+		"title" : "AGENT TRUMAN",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 29,
+		"title" : "AGENT TRUMAN",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 30,
+		"title" : "AGENT TRUMAN",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 31,
+		"title" : "AGENT TRUMAN",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 32,
+		"title" : "AIRPLANE SIERRA",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 33,
+		"title" : "AIRPLANE SIERRA",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 34,
+		"title" : "AIRPLANE SIERRA",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 35,
+		"title" : "AIRPLANE SIERRA",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 36,
+		"title" : "AIRPLANE SIERRA",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 37,
+		"title" : "AIRPORT POLLOCK",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 38,
+		"title" : "AIRPORT POLLOCK",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 39,
+		"title" : "AIRPORT POLLOCK",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 40,
+		"title" : "AIRPORT POLLOCK",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 41,
+		"title" : "ALABAMA DEVIL",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 42,
+		"title" : "ALABAMA DEVIL",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 43,
+		"title" : "ALABAMA DEVIL",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 44,
+		"title" : "ALABAMA DEVIL",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 45,
+		"title" : "ALABAMA DEVIL",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 46,
+		"title" : "ALADDIN CALENDAR",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 47,
+		"title" : "ALADDIN CALENDAR",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 48,
+		"title" : "ALADDIN CALENDAR",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 49,
+		"title" : "ALADDIN CALENDAR",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 50,
+		"title" : "ALADDIN CALENDAR",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 51,
+		"title" : "ALADDIN CALENDAR",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 52,
+		"title" : "ALADDIN CALENDAR",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 53,
+		"title" : "ALAMO VIDEOTAPE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 54,
+		"title" : "ALAMO VIDEOTAPE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 55,
+		"title" : "ALAMO VIDEOTAPE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 56,
+		"title" : "ALAMO VIDEOTAPE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 57,
+		"title" : "ALAMO VIDEOTAPE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 58,
+		"title" : "ALAMO VIDEOTAPE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 59,
+		"title" : "ALAMO VIDEOTAPE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 60,
+		"title" : "ALASKA PHANTOM",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 61,
+		"title" : "ALASKA PHANTOM",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 62,
+		"title" : "ALASKA PHANTOM",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 63,
+		"title" : "ALASKA PHANTOM",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 64,
+		"title" : "ALASKA PHANTOM",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 65,
+		"title" : "ALASKA PHANTOM",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 66,
+		"title" : "ALASKA PHANTOM",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 67,
+		"title" : "ALI FOREVER",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 68,
+		"title" : "ALI FOREVER",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 69,
+		"title" : "ALI FOREVER",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 70,
+		"title" : "ALI FOREVER",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 71,
+		"title" : "ALIEN CENTER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 72,
+		"title" : "ALIEN CENTER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 73,
+		"title" : "ALIEN CENTER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 74,
+		"title" : "ALIEN CENTER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 75,
+		"title" : "ALIEN CENTER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 76,
+		"title" : "ALIEN CENTER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 77,
+		"title" : "ALLEY EVOLUTION",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 78,
+		"title" : "ALLEY EVOLUTION",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 79,
+		"title" : "ALLEY EVOLUTION",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 80,
+		"title" : "ALLEY EVOLUTION",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 81,
+		"title" : "ALONE TRIP",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 82,
+		"title" : "ALONE TRIP",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 83,
+		"title" : "ALONE TRIP",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 84,
+		"title" : "ALONE TRIP",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 85,
+		"title" : "ALONE TRIP",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 86,
+		"title" : "ALONE TRIP",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 87,
+		"title" : "ALTER VICTORY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 88,
+		"title" : "ALTER VICTORY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 89,
+		"title" : "ALTER VICTORY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 90,
+		"title" : "ALTER VICTORY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 91,
+		"title" : "ALTER VICTORY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 92,
+		"title" : "ALTER VICTORY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 93,
+		"title" : "AMADEUS HOLY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 94,
+		"title" : "AMADEUS HOLY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 95,
+		"title" : "AMADEUS HOLY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 96,
+		"title" : "AMADEUS HOLY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 97,
+		"title" : "AMADEUS HOLY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 98,
+		"title" : "AMADEUS HOLY",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 99,
+		"title" : "AMELIE HELLFIGHTERS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 100,
+		"title" : "AMELIE HELLFIGHTERS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 101,
+		"title" : "AMELIE HELLFIGHTERS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 102,
+		"title" : "AMERICAN CIRCUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 103,
+		"title" : "AMERICAN CIRCUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 104,
+		"title" : "AMERICAN CIRCUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 105,
+		"title" : "AMERICAN CIRCUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 106,
+		"title" : "AMERICAN CIRCUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 107,
+		"title" : "AMERICAN CIRCUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 108,
+		"title" : "AMISTAD MIDSUMMER",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 109,
+		"title" : "AMISTAD MIDSUMMER",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 110,
+		"title" : "AMISTAD MIDSUMMER",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 111,
+		"title" : "AMISTAD MIDSUMMER",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 112,
+		"title" : "AMISTAD MIDSUMMER",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 113,
+		"title" : "AMISTAD MIDSUMMER",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 114,
+		"title" : "AMISTAD MIDSUMMER",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 115,
+		"title" : "ANACONDA CONFESSIONS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 9.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 116,
+		"title" : "ANACONDA CONFESSIONS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 9.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 117,
+		"title" : "ANACONDA CONFESSIONS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 9.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 118,
+		"title" : "ANACONDA CONFESSIONS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 119,
+		"title" : "ANACONDA CONFESSIONS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 120,
+		"title" : "ANALYZE HOOSIERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 121,
+		"title" : "ANALYZE HOOSIERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 122,
+		"title" : "ANALYZE HOOSIERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 123,
+		"title" : "ANALYZE HOOSIERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 124,
+		"title" : "ANGELS LIFE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 125,
+		"title" : "ANGELS LIFE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 126,
+		"title" : "ANGELS LIFE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 127,
+		"title" : "ANGELS LIFE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 128,
+		"title" : "ANGELS LIFE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 129,
+		"title" : "ANGELS LIFE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 130,
+		"title" : "ANNIE IDENTITY",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 131,
+		"title" : "ANNIE IDENTITY",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 132,
+		"title" : "ANNIE IDENTITY",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 133,
+		"title" : "ANNIE IDENTITY",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 134,
+		"title" : "ANNIE IDENTITY",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 135,
+		"title" : "ANONYMOUS HUMAN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 136,
+		"title" : "ANONYMOUS HUMAN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 137,
+		"title" : "ANONYMOUS HUMAN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 138,
+		"title" : "ANONYMOUS HUMAN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 139,
+		"title" : "ANTHEM LUKE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 140,
+		"title" : "ANTHEM LUKE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 141,
+		"title" : "ANTHEM LUKE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 142,
+		"title" : "ANTITRUST TOMATOES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 143,
+		"title" : "ANTITRUST TOMATOES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 144,
+		"title" : "ANYTHING SAVANNAH",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 145,
+		"title" : "ANYTHING SAVANNAH",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 146,
+		"title" : "APACHE DIVINE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 147,
+		"title" : "APACHE DIVINE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 148,
+		"title" : "APACHE DIVINE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 149,
+		"title" : "APACHE DIVINE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 150,
+		"title" : "APACHE DIVINE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 151,
+		"title" : "APACHE DIVINE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 152,
+		"title" : "APACHE DIVINE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 153,
+		"title" : "APACHE DIVINE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 154,
+		"title" : "APOCALYPSE FLAMINGOS",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 155,
+		"title" : "APOCALYPSE FLAMINGOS",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 156,
+		"title" : "ARABIA DOGMA",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 157,
+		"title" : "ARABIA DOGMA",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 158,
+		"title" : "ARABIA DOGMA",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 159,
+		"title" : "ARABIA DOGMA",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 160,
+		"title" : "ARACHNOPHOBIA ROLLERCOASTER",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 161,
+		"title" : "ARACHNOPHOBIA ROLLERCOASTER",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 162,
+		"title" : "ARACHNOPHOBIA ROLLERCOASTER",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 163,
+		"title" : "ARACHNOPHOBIA ROLLERCOASTER",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 164,
+		"title" : "ARACHNOPHOBIA ROLLERCOASTER",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 165,
+		"title" : "ARACHNOPHOBIA ROLLERCOASTER",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 166,
+		"title" : "ARACHNOPHOBIA ROLLERCOASTER",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 167,
+		"title" : "ARIZONA BANG",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 168,
+		"title" : "ARIZONA BANG",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 169,
+		"title" : "ARIZONA BANG",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 170,
+		"title" : "ARIZONA BANG",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 171,
+		"title" : "ARIZONA BANG",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 172,
+		"title" : "ARIZONA BANG",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 173,
+		"title" : "ARIZONA BANG",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 174,
+		"title" : "ARMAGEDDON LOST",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 175,
+		"title" : "ARMAGEDDON LOST",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 176,
+		"title" : "ARMAGEDDON LOST",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 177,
+		"title" : "ARMAGEDDON LOST",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 178,
+		"title" : "ARMAGEDDON LOST",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 179,
+		"title" : "ARMAGEDDON LOST",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 180,
+		"title" : "ARMAGEDDON LOST",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 181,
+		"title" : "ARMY FLINTSTONES",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 182,
+		"title" : "ARMY FLINTSTONES",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 183,
+		"title" : "ARMY FLINTSTONES",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 184,
+		"title" : "ARMY FLINTSTONES",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 185,
+		"title" : "ARTIST COLDBLOODED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 186,
+		"title" : "ARTIST COLDBLOODED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 187,
+		"title" : "ARTIST COLDBLOODED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 188,
+		"title" : "ARTIST COLDBLOODED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 189,
+		"title" : "ATLANTIS CAUSE",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 190,
+		"title" : "ATLANTIS CAUSE",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 191,
+		"title" : "ATLANTIS CAUSE",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 192,
+		"title" : "ATLANTIS CAUSE",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 193,
+		"title" : "ATLANTIS CAUSE",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 194,
+		"title" : "ATLANTIS CAUSE",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 195,
+		"title" : "ATLANTIS CAUSE",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 196,
+		"title" : "ATTACKS HATE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 197,
+		"title" : "ATTACKS HATE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 198,
+		"title" : "ATTACKS HATE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 199,
+		"title" : "ATTACKS HATE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 200,
+		"title" : "ATTACKS HATE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 201,
+		"title" : "ATTRACTION NEWTON",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 202,
+		"title" : "ATTRACTION NEWTON",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 203,
+		"title" : "ATTRACTION NEWTON",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 204,
+		"title" : "ATTRACTION NEWTON",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 205,
+		"title" : "ATTRACTION NEWTON",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 206,
+		"title" : "ATTRACTION NEWTON",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 207,
+		"title" : "AUTUMN CROW",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 208,
+		"title" : "AUTUMN CROW",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 209,
+		"title" : "AUTUMN CROW",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 210,
+		"title" : "BABY HALL",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 211,
+		"title" : "BABY HALL",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 212,
+		"title" : "BACKLASH UNDEFEATED",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 213,
+		"title" : "BACKLASH UNDEFEATED",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 214,
+		"title" : "BACKLASH UNDEFEATED",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 215,
+		"title" : "BACKLASH UNDEFEATED",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 216,
+		"title" : "BADMAN DAWN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 217,
+		"title" : "BADMAN DAWN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 218,
+		"title" : "BADMAN DAWN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 219,
+		"title" : "BADMAN DAWN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 220,
+		"title" : "BADMAN DAWN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 221,
+		"title" : "BADMAN DAWN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 222,
+		"title" : "BAKED CLEOPATRA",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 223,
+		"title" : "BAKED CLEOPATRA",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 224,
+		"title" : "BAKED CLEOPATRA",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 225,
+		"title" : "BAKED CLEOPATRA",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 226,
+		"title" : "BAKED CLEOPATRA",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 227,
+		"title" : "BALLOON HOMEWARD",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 228,
+		"title" : "BALLOON HOMEWARD",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 229,
+		"title" : "BALLOON HOMEWARD",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 230,
+		"title" : "BALLOON HOMEWARD",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 231,
+		"title" : "BALLOON HOMEWARD",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 232,
+		"title" : "BALLOON HOMEWARD",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 233,
+		"title" : "BALLROOM MOCKINGBIRD",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 234,
+		"title" : "BALLROOM MOCKINGBIRD",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 235,
+		"title" : "BANG KWAI",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 236,
+		"title" : "BANG KWAI",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 237,
+		"title" : "BANGER PINOCCHIO",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 238,
+		"title" : "BANGER PINOCCHIO",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 239,
+		"title" : "BANGER PINOCCHIO",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 240,
+		"title" : "BANGER PINOCCHIO",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 241,
+		"title" : "BANGER PINOCCHIO",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 242,
+		"title" : "BARBARELLA STREETCAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 243,
+		"title" : "BARBARELLA STREETCAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 244,
+		"title" : "BARBARELLA STREETCAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 245,
+		"title" : "BARBARELLA STREETCAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 246,
+		"title" : "BARBARELLA STREETCAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 247,
+		"title" : "BARBARELLA STREETCAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 248,
+		"title" : "BAREFOOT MANCHURIAN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 249,
+		"title" : "BAREFOOT MANCHURIAN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 250,
+		"title" : "BAREFOOT MANCHURIAN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 251,
+		"title" : "BAREFOOT MANCHURIAN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 252,
+		"title" : "BAREFOOT MANCHURIAN",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 253,
+		"title" : "BASIC EASY",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 254,
+		"title" : "BASIC EASY",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 255,
+		"title" : "BASIC EASY",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 256,
+		"title" : "BASIC EASY",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 257,
+		"title" : "BASIC EASY",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 258,
+		"title" : "BASIC EASY",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 259,
+		"title" : "BASIC EASY",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 260,
+		"title" : "BEACH HEARTBREAKERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 261,
+		"title" : "BEACH HEARTBREAKERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 262,
+		"title" : "BEACH HEARTBREAKERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 263,
+		"title" : "BEACH HEARTBREAKERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 264,
+		"title" : "BEAR GRACELAND",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 265,
+		"title" : "BEAR GRACELAND",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 266,
+		"title" : "BEAR GRACELAND",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 267,
+		"title" : "BEAR GRACELAND",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 268,
+		"title" : "BEAR GRACELAND",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 269,
+		"title" : "BEAST HUNCHBACK",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 270,
+		"title" : "BEAST HUNCHBACK",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 271,
+		"title" : "BEAST HUNCHBACK",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 272,
+		"title" : "BEAUTY GREASE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 273,
+		"title" : "BEAUTY GREASE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 274,
+		"title" : "BEAUTY GREASE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 275,
+		"title" : "BEAUTY GREASE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 276,
+		"title" : "BEAUTY GREASE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 277,
+		"title" : "BEAUTY GREASE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 278,
+		"title" : "BED HIGHBALL",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 279,
+		"title" : "BED HIGHBALL",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 280,
+		"title" : "BEDAZZLED MARRIED",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 281,
+		"title" : "BEDAZZLED MARRIED",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 282,
+		"title" : "BEDAZZLED MARRIED",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 283,
+		"title" : "BEDAZZLED MARRIED",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 284,
+		"title" : "BEETHOVEN EXORCIST",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 285,
+		"title" : "BEETHOVEN EXORCIST",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 286,
+		"title" : "BEETHOVEN EXORCIST",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 287,
+		"title" : "BEHAVIOR RUNAWAY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 288,
+		"title" : "BEHAVIOR RUNAWAY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 289,
+		"title" : "BEHAVIOR RUNAWAY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 290,
+		"title" : "BEHAVIOR RUNAWAY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 291,
+		"title" : "BENEATH RUSH",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 292,
+		"title" : "BENEATH RUSH",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 293,
+		"title" : "BENEATH RUSH",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 294,
+		"title" : "BERETS AGENT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 295,
+		"title" : "BERETS AGENT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 296,
+		"title" : "BERETS AGENT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 297,
+		"title" : "BERETS AGENT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 298,
+		"title" : "BERETS AGENT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 299,
+		"title" : "BERETS AGENT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 300,
+		"title" : "BETRAYED REAR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 301,
+		"title" : "BETRAYED REAR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 302,
+		"title" : "BETRAYED REAR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 303,
+		"title" : "BETRAYED REAR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 304,
+		"title" : "BEVERLY OUTLAW",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 305,
+		"title" : "BEVERLY OUTLAW",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 306,
+		"title" : "BEVERLY OUTLAW",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 307,
+		"title" : "BEVERLY OUTLAW",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 308,
+		"title" : "BEVERLY OUTLAW",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 309,
+		"title" : "BEVERLY OUTLAW",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 310,
+		"title" : "BEVERLY OUTLAW",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 311,
+		"title" : "BEVERLY OUTLAW",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 312,
+		"title" : "BIKINI BORROWERS",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 313,
+		"title" : "BIKINI BORROWERS",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 314,
+		"title" : "BIKINI BORROWERS",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 315,
+		"title" : "BIKINI BORROWERS",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 316,
+		"title" : "BILKO ANONYMOUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 317,
+		"title" : "BILKO ANONYMOUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 318,
+		"title" : "BILKO ANONYMOUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 319,
+		"title" : "BILKO ANONYMOUS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 320,
+		"title" : "BILL OTHERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 321,
+		"title" : "BILL OTHERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 322,
+		"title" : "BILL OTHERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 323,
+		"title" : "BILL OTHERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 324,
+		"title" : "BILL OTHERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 325,
+		"title" : "BILL OTHERS",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 326,
+		"title" : "BINGO TALENTED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 327,
+		"title" : "BINGO TALENTED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 328,
+		"title" : "BINGO TALENTED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 329,
+		"title" : "BINGO TALENTED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 330,
+		"title" : "BINGO TALENTED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 331,
+		"title" : "BINGO TALENTED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 332,
+		"title" : "BINGO TALENTED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 333,
+		"title" : "BINGO TALENTED",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 334,
+		"title" : "BIRCH ANTITRUST",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 335,
+		"title" : "BIRCH ANTITRUST",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 336,
+		"title" : "BIRCH ANTITRUST",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 337,
+		"title" : "BIRCH ANTITRUST",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 338,
+		"title" : "BIRCH ANTITRUST",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 339,
+		"title" : "BIRD INDEPENDENCE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 340,
+		"title" : "BIRD INDEPENDENCE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 341,
+		"title" : "BIRD INDEPENDENCE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 342,
+		"title" : "BIRDCAGE CASPER",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 343,
+		"title" : "BIRDCAGE CASPER",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 344,
+		"title" : "BIRDCAGE CASPER",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 345,
+		"title" : "BIRDS PERDITION",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 346,
+		"title" : "BIRDS PERDITION",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 347,
+		"title" : "BIRDS PERDITION",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 348,
+		"title" : "BIRDS PERDITION",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 349,
+		"title" : "BIRDS PERDITION",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 350,
+		"title" : "BIRDS PERDITION",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 351,
+		"title" : "BLACKOUT PRIVATE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 352,
+		"title" : "BLACKOUT PRIVATE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 353,
+		"title" : "BLACKOUT PRIVATE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 354,
+		"title" : "BLACKOUT PRIVATE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 355,
+		"title" : "BLACKOUT PRIVATE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 356,
+		"title" : "BLACKOUT PRIVATE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 357,
+		"title" : "BLACKOUT PRIVATE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 358,
+		"title" : "BLADE POLISH",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 359,
+		"title" : "BLADE POLISH",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 360,
+		"title" : "BLADE POLISH",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 361,
+		"title" : "BLADE POLISH",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 362,
+		"title" : "BLADE POLISH",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 363,
+		"title" : "BLADE POLISH",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 364,
+		"title" : "BLANKET BEVERLY",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 365,
+		"title" : "BLANKET BEVERLY",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 366,
+		"title" : "BLANKET BEVERLY",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 367,
+		"title" : "BLANKET BEVERLY",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 368,
+		"title" : "BLINDNESS GUN",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 369,
+		"title" : "BLINDNESS GUN",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 370,
+		"title" : "BLINDNESS GUN",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 371,
+		"title" : "BLINDNESS GUN",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 372,
+		"title" : "BLOOD ARGONAUTS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 373,
+		"title" : "BLOOD ARGONAUTS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 374,
+		"title" : "BLUES INSTINCT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 375,
+		"title" : "BLUES INSTINCT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 376,
+		"title" : "BLUES INSTINCT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 377,
+		"title" : "BLUES INSTINCT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 378,
+		"title" : "BLUES INSTINCT",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 379,
+		"title" : "BOILED DARES",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 380,
+		"title" : "BOILED DARES",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 381,
+		"title" : "BOILED DARES",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 382,
+		"title" : "BOILED DARES",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 383,
+		"title" : "BONNIE HOLOCAUST",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 384,
+		"title" : "BONNIE HOLOCAUST",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 385,
+		"title" : "BONNIE HOLOCAUST",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 386,
+		"title" : "BONNIE HOLOCAUST",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 387,
+		"title" : "BOOGIE AMELIE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 388,
+		"title" : "BOOGIE AMELIE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 389,
+		"title" : "BOOGIE AMELIE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 390,
+		"title" : "BOOGIE AMELIE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 391,
+		"title" : "BOOGIE AMELIE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 392,
+		"title" : "BOOGIE AMELIE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 393,
+		"title" : "BOOGIE AMELIE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 394,
+		"title" : "BOOGIE AMELIE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 395,
+		"title" : "BORN SPINAL",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 396,
+		"title" : "BORN SPINAL",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 397,
+		"title" : "BORN SPINAL",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 398,
+		"title" : "BORN SPINAL",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 399,
+		"title" : "BORROWERS BEDAZZLED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 400,
+		"title" : "BORROWERS BEDAZZLED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 401,
+		"title" : "BORROWERS BEDAZZLED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 402,
+		"title" : "BORROWERS BEDAZZLED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 403,
+		"title" : "BORROWERS BEDAZZLED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 404,
+		"title" : "BORROWERS BEDAZZLED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 405,
+		"title" : "BOULEVARD MOB",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 406,
+		"title" : "BOULEVARD MOB",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 407,
+		"title" : "BOULEVARD MOB",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 408,
+		"title" : "BOULEVARD MOB",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 409,
+		"title" : "BOULEVARD MOB",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 410,
+		"title" : "BOULEVARD MOB",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 411,
+		"title" : "BOUND CHEAPER",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 412,
+		"title" : "BOUND CHEAPER",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 413,
+		"title" : "BOUND CHEAPER",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 414,
+		"title" : "BOUND CHEAPER",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 415,
+		"title" : "BOUND CHEAPER",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 416,
+		"title" : "BOUND CHEAPER",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 417,
+		"title" : "BOUND CHEAPER",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 418,
+		"title" : "BOUND CHEAPER",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 419,
+		"title" : "BOWFINGER GABLES",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 420,
+		"title" : "BOWFINGER GABLES",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 421,
+		"title" : "BOWFINGER GABLES",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 422,
+		"title" : "BOWFINGER GABLES",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 423,
+		"title" : "BRANNIGAN SUNRISE",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 424,
+		"title" : "BRANNIGAN SUNRISE",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 425,
+		"title" : "BRANNIGAN SUNRISE",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 426,
+		"title" : "BRAVEHEART HUMAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 427,
+		"title" : "BRAVEHEART HUMAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 428,
+		"title" : "BREAKFAST GOLDFINGER",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 429,
+		"title" : "BREAKFAST GOLDFINGER",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 430,
+		"title" : "BREAKFAST GOLDFINGER",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 431,
+		"title" : "BREAKFAST GOLDFINGER",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 432,
+		"title" : "BREAKFAST GOLDFINGER",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 18.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 433,
+		"title" : "BREAKING HOME",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 434,
+		"title" : "BREAKING HOME",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 435,
+		"title" : "BREAKING HOME",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 436,
+		"title" : "BRIDE INTRIGUE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 437,
+		"title" : "BRIDE INTRIGUE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 438,
+		"title" : "BRIDE INTRIGUE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 439,
+		"title" : "BRIDE INTRIGUE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 440,
+		"title" : "BRIDE INTRIGUE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 441,
+		"title" : "BRIDE INTRIGUE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 442,
+		"title" : "BRIGHT ENCOUNTERS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 443,
+		"title" : "BRIGHT ENCOUNTERS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 444,
+		"title" : "BRIGHT ENCOUNTERS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 445,
+		"title" : "BRINGING HYSTERICAL",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 446,
+		"title" : "BRINGING HYSTERICAL",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 447,
+		"title" : "BRINGING HYSTERICAL",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 448,
+		"title" : "BRINGING HYSTERICAL",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 449,
+		"title" : "BRINGING HYSTERICAL",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 450,
+		"title" : "BRINGING HYSTERICAL",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 451,
+		"title" : "BROOKLYN DESERT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 452,
+		"title" : "BROOKLYN DESERT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 453,
+		"title" : "BROOKLYN DESERT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 454,
+		"title" : "BROOKLYN DESERT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 455,
+		"title" : "BROOKLYN DESERT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 456,
+		"title" : "BROOKLYN DESERT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 457,
+		"title" : "BROTHERHOOD BLANKET",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 458,
+		"title" : "BROTHERHOOD BLANKET",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 459,
+		"title" : "BROTHERHOOD BLANKET",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 460,
+		"title" : "BROTHERHOOD BLANKET",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 461,
+		"title" : "BROTHERHOOD BLANKET",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 462,
+		"title" : "BROTHERHOOD BLANKET",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 463,
+		"title" : "BUBBLE GROSSE",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 464,
+		"title" : "BUBBLE GROSSE",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 465,
+		"title" : "BUCKET BROTHERHOOD",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 466,
+		"title" : "BUCKET BROTHERHOOD",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 467,
+		"title" : "BUCKET BROTHERHOOD",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 468,
+		"title" : "BUCKET BROTHERHOOD",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 469,
+		"title" : "BUCKET BROTHERHOOD",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 470,
+		"title" : "BUCKET BROTHERHOOD",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 471,
+		"title" : "BUCKET BROTHERHOOD",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 472,
+		"title" : "BUCKET BROTHERHOOD",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 473,
+		"title" : "BUGSY SONG",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 474,
+		"title" : "BUGSY SONG",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 475,
+		"title" : "BUGSY SONG",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 476,
+		"title" : "BULL SHAWSHANK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 477,
+		"title" : "BULL SHAWSHANK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 478,
+		"title" : "BULL SHAWSHANK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 479,
+		"title" : "BULL SHAWSHANK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 480,
+		"title" : "BULL SHAWSHANK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 481,
+		"title" : "BULWORTH COMMANDMENTS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 482,
+		"title" : "BULWORTH COMMANDMENTS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 483,
+		"title" : "BUNCH MINDS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 484,
+		"title" : "BUNCH MINDS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 485,
+		"title" : "BUTTERFLY CHOCOLAT",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 486,
+		"title" : "BUTTERFLY CHOCOLAT",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 487,
+		"title" : "BUTTERFLY CHOCOLAT",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 488,
+		"title" : "BUTTERFLY CHOCOLAT",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 489,
+		"title" : "BUTTERFLY CHOCOLAT",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 490,
+		"title" : "BUTTERFLY CHOCOLAT",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 491,
+		"title" : "BUTTERFLY CHOCOLAT",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 492,
+		"title" : "BUTTERFLY CHOCOLAT",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 493,
+		"title" : "CABIN FLASH",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 494,
+		"title" : "CABIN FLASH",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 495,
+		"title" : "CABIN FLASH",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 496,
+		"title" : "CABIN FLASH",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 497,
+		"title" : "CADDYSHACK JEDI",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 498,
+		"title" : "CADDYSHACK JEDI",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 499,
+		"title" : "CADDYSHACK JEDI",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 500,
+		"title" : "CADDYSHACK JEDI",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 501,
+		"title" : "CALENDAR GUNFIGHT",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 502,
+		"title" : "CALENDAR GUNFIGHT",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 503,
+		"title" : "CALENDAR GUNFIGHT",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 504,
+		"title" : "CALENDAR GUNFIGHT",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 505,
+		"title" : "CALENDAR GUNFIGHT",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 506,
+		"title" : "CALENDAR GUNFIGHT",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 507,
+		"title" : "CALENDAR GUNFIGHT",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 508,
+		"title" : "CALIFORNIA BIRDS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 509,
+		"title" : "CALIFORNIA BIRDS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 510,
+		"title" : "CALIFORNIA BIRDS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 511,
+		"title" : "CALIFORNIA BIRDS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 512,
+		"title" : "CAMELOT VACATION",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 513,
+		"title" : "CAMELOT VACATION",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 514,
+		"title" : "CAMELOT VACATION",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 515,
+		"title" : "CAMELOT VACATION",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 516,
+		"title" : "CAMELOT VACATION",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 517,
+		"title" : "CAMELOT VACATION",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 518,
+		"title" : "CAMELOT VACATION",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 519,
+		"title" : "CAMPUS REMEMBER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 520,
+		"title" : "CAMPUS REMEMBER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 521,
+		"title" : "CAMPUS REMEMBER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 522,
+		"title" : "CAMPUS REMEMBER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 523,
+		"title" : "CAMPUS REMEMBER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 524,
+		"title" : "CAMPUS REMEMBER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 525,
+		"title" : "CAMPUS REMEMBER",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 526,
+		"title" : "CANDIDATE PERDITION",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 527,
+		"title" : "CANDIDATE PERDITION",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 528,
+		"title" : "CANDIDATE PERDITION",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 529,
+		"title" : "CANDIDATE PERDITION",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 530,
+		"title" : "CANDIDATE PERDITION",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 531,
+		"title" : "CANDIDATE PERDITION",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 532,
+		"title" : "CANDLES GRAPES",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 533,
+		"title" : "CANDLES GRAPES",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 534,
+		"title" : "CANDLES GRAPES",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 535,
+		"title" : "CANDLES GRAPES",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 536,
+		"title" : "CANDLES GRAPES",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 537,
+		"title" : "CANDLES GRAPES",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 538,
+		"title" : "CANYON STOCK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 539,
+		"title" : "CANYON STOCK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 540,
+		"title" : "CANYON STOCK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 541,
+		"title" : "CANYON STOCK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 542,
+		"title" : "CANYON STOCK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 543,
+		"title" : "CANYON STOCK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 544,
+		"title" : "CAPER MOTIONS",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 545,
+		"title" : "CAPER MOTIONS",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 546,
+		"title" : "CAPER MOTIONS",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 547,
+		"title" : "CAPER MOTIONS",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 548,
+		"title" : "CAPER MOTIONS",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 549,
+		"title" : "CAPER MOTIONS",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 550,
+		"title" : "CAPER MOTIONS",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 551,
+		"title" : "CARIBBEAN LIBERTY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 552,
+		"title" : "CARIBBEAN LIBERTY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 553,
+		"title" : "CARIBBEAN LIBERTY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 554,
+		"title" : "CAROL TEXAS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 555,
+		"title" : "CAROL TEXAS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 556,
+		"title" : "CAROL TEXAS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 557,
+		"title" : "CAROL TEXAS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 558,
+		"title" : "CAROL TEXAS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 559,
+		"title" : "CAROL TEXAS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 560,
+		"title" : "CARRIE BUNCH",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 561,
+		"title" : "CARRIE BUNCH",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 562,
+		"title" : "CARRIE BUNCH",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 563,
+		"title" : "CARRIE BUNCH",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 564,
+		"title" : "CARRIE BUNCH",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 565,
+		"title" : "CARRIE BUNCH",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 566,
+		"title" : "CARRIE BUNCH",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 567,
+		"title" : "CASABLANCA SUPER",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 568,
+		"title" : "CASABLANCA SUPER",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 569,
+		"title" : "CASABLANCA SUPER",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 570,
+		"title" : "CASABLANCA SUPER",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 571,
+		"title" : "CASABLANCA SUPER",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 572,
+		"title" : "CASPER DRAGONFLY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 573,
+		"title" : "CASPER DRAGONFLY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 574,
+		"title" : "CASPER DRAGONFLY",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 575,
+		"title" : "CASSIDY WYOMING",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 576,
+		"title" : "CASSIDY WYOMING",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 577,
+		"title" : "CASUALTIES ENCINO",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 578,
+		"title" : "CASUALTIES ENCINO",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 579,
+		"title" : "CASUALTIES ENCINO",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 580,
+		"title" : "CAT CONEHEADS",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 581,
+		"title" : "CAT CONEHEADS",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 582,
+		"title" : "CAT CONEHEADS",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 583,
+		"title" : "CAT CONEHEADS",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 584,
+		"title" : "CAT CONEHEADS",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 585,
+		"title" : "CAT CONEHEADS",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 586,
+		"title" : "CAT CONEHEADS",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 587,
+		"title" : "CAT CONEHEADS",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 588,
+		"title" : "CAUSE DATE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 589,
+		"title" : "CAUSE DATE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 590,
+		"title" : "CAUSE DATE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 591,
+		"title" : "CAUSE DATE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 592,
+		"title" : "CAUSE DATE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 593,
+		"title" : "CAUSE DATE",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 594,
+		"title" : "CELEBRITY HORN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 595,
+		"title" : "CELEBRITY HORN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 596,
+		"title" : "CELEBRITY HORN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 597,
+		"title" : "CELEBRITY HORN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 598,
+		"title" : "CELEBRITY HORN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 599,
+		"title" : "CELEBRITY HORN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 600,
+		"title" : "CENTER DINOSAUR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 601,
+		"title" : "CENTER DINOSAUR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 602,
+		"title" : "CENTER DINOSAUR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 603,
+		"title" : "CENTER DINOSAUR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 604,
+		"title" : "CENTER DINOSAUR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 605,
+		"title" : "CENTER DINOSAUR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 606,
+		"title" : "CHAINSAW UPTOWN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 607,
+		"title" : "CHAINSAW UPTOWN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 608,
+		"title" : "CHAINSAW UPTOWN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 609,
+		"title" : "CHAINSAW UPTOWN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 610,
+		"title" : "CHAINSAW UPTOWN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 611,
+		"title" : "CHAINSAW UPTOWN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 612,
+		"title" : "CHAMBER ITALIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 613,
+		"title" : "CHAMBER ITALIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 614,
+		"title" : "CHAMBER ITALIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 615,
+		"title" : "CHAMBER ITALIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 616,
+		"title" : "CHAMPION FLATLINERS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 617,
+		"title" : "CHAMPION FLATLINERS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 618,
+		"title" : "CHAMPION FLATLINERS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 619,
+		"title" : "CHANCE RESURRECTION",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 620,
+		"title" : "CHANCE RESURRECTION",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 621,
+		"title" : "CHANCE RESURRECTION",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 622,
+		"title" : "CHANCE RESURRECTION",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 623,
+		"title" : "CHANCE RESURRECTION",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 624,
+		"title" : "CHANCE RESURRECTION",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 625,
+		"title" : "CHANCE RESURRECTION",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 626,
+		"title" : "CHAPLIN LICENSE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 627,
+		"title" : "CHAPLIN LICENSE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 628,
+		"title" : "CHAPLIN LICENSE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 629,
+		"title" : "CHARADE DUFFEL",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 630,
+		"title" : "CHARADE DUFFEL",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 631,
+		"title" : "CHARADE DUFFEL",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 632,
+		"title" : "CHARADE DUFFEL",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 633,
+		"title" : "CHARIOTS CONSPIRACY",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 634,
+		"title" : "CHARIOTS CONSPIRACY",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 635,
+		"title" : "CHARIOTS CONSPIRACY",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 636,
+		"title" : "CHARIOTS CONSPIRACY",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 637,
+		"title" : "CHARIOTS CONSPIRACY",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 638,
+		"title" : "CHASING FIGHT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 639,
+		"title" : "CHASING FIGHT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 640,
+		"title" : "CHASING FIGHT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 641,
+		"title" : "CHASING FIGHT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 642,
+		"title" : "CHASING FIGHT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 643,
+		"title" : "CHASING FIGHT",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 644,
+		"title" : "CHEAPER CLYDE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 645,
+		"title" : "CHEAPER CLYDE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 646,
+		"title" : "CHEAPER CLYDE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 647,
+		"title" : "CHEAPER CLYDE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 648,
+		"title" : "CHEAPER CLYDE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 649,
+		"title" : "CHICAGO NORTH",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 650,
+		"title" : "CHICAGO NORTH",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 651,
+		"title" : "CHICAGO NORTH",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 652,
+		"title" : "CHICAGO NORTH",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 653,
+		"title" : "CHICAGO NORTH",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 11.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 654,
+		"title" : "CHICKEN HELLFIGHTERS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 655,
+		"title" : "CHICKEN HELLFIGHTERS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 656,
+		"title" : "CHICKEN HELLFIGHTERS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 657,
+		"title" : "CHICKEN HELLFIGHTERS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 658,
+		"title" : "CHICKEN HELLFIGHTERS",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 659,
+		"title" : "CHILL LUCK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 660,
+		"title" : "CHILL LUCK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 661,
+		"title" : "CHILL LUCK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 662,
+		"title" : "CHILL LUCK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 663,
+		"title" : "CHILL LUCK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 664,
+		"title" : "CHILL LUCK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 665,
+		"title" : "CHILL LUCK",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 666,
+		"title" : "CHISUM BEHAVIOR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 667,
+		"title" : "CHISUM BEHAVIOR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 668,
+		"title" : "CHISUM BEHAVIOR",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 669,
+		"title" : "CHITTY LOCK",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 670,
+		"title" : "CHITTY LOCK",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 671,
+		"title" : "CHITTY LOCK",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 672,
+		"title" : "CHOCOLAT HARRY",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 673,
+		"title" : "CHOCOLAT HARRY",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 674,
+		"title" : "CHOCOLAT HARRY",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 675,
+		"title" : "CHOCOLAT HARRY",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 676,
+		"title" : "CHOCOLAT HARRY",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 677,
+		"title" : "CHOCOLAT HARRY",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 678,
+		"title" : "CHRISTMAS MOONSHINE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 679,
+		"title" : "CHRISTMAS MOONSHINE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 680,
+		"title" : "CHRISTMAS MOONSHINE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 681,
+		"title" : "CHRISTMAS MOONSHINE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 682,
+		"title" : "CHRISTMAS MOONSHINE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 683,
+		"title" : "CHRISTMAS MOONSHINE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 684,
+		"title" : "CIDER DESIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 9.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 685,
+		"title" : "CIDER DESIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 9.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 686,
+		"title" : "CIDER DESIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 687,
+		"title" : "CIDER DESIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 688,
+		"title" : "CIDER DESIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 689,
+		"title" : "CIDER DESIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 690,
+		"title" : "CINCINATTI WHISPERER",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 691,
+		"title" : "CINCINATTI WHISPERER",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 692,
+		"title" : "CINCINATTI WHISPERER",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 693,
+		"title" : "CINCINATTI WHISPERER",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 694,
+		"title" : "CIRCUS YOUTH",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 695,
+		"title" : "CIRCUS YOUTH",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 696,
+		"title" : "CIRCUS YOUTH",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 697,
+		"title" : "CIRCUS YOUTH",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 698,
+		"title" : "CITIZEN SHREK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 699,
+		"title" : "CITIZEN SHREK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 700,
+		"title" : "CITIZEN SHREK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 701,
+		"title" : "CITIZEN SHREK",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 702,
+		"title" : "CLASH FREDDY",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 703,
+		"title" : "CLASH FREDDY",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 704,
+		"title" : "CLASH FREDDY",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 705,
+		"title" : "CLASH FREDDY",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 706,
+		"title" : "CLASH FREDDY",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 707,
+		"title" : "CLASH FREDDY",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 708,
+		"title" : "CLASH FREDDY",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 709,
+		"title" : "CLEOPATRA DEVIL",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 710,
+		"title" : "CLEOPATRA DEVIL",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 711,
+		"title" : "CLEOPATRA DEVIL",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 712,
+		"title" : "CLEOPATRA DEVIL",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 713,
+		"title" : "CLEOPATRA DEVIL",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 26.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 714,
+		"title" : "CLERKS ANGELS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 715,
+		"title" : "CLERKS ANGELS",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 15.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 716,
+		"title" : "CLOCKWORK PARADISE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 717,
+		"title" : "CLOCKWORK PARADISE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 718,
+		"title" : "CLOCKWORK PARADISE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 719,
+		"title" : "CLONES PINOCCHIO",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 720,
+		"title" : "CLONES PINOCCHIO",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 721,
+		"title" : "CLONES PINOCCHIO",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 722,
+		"title" : "CLONES PINOCCHIO",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 723,
+		"title" : "CLONES PINOCCHIO",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 724,
+		"title" : "CLOSER BANG",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 725,
+		"title" : "CLOSER BANG",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 726,
+		"title" : "CLOSER BANG",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 727,
+		"title" : "CLOSER BANG",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 728,
+		"title" : "CLOSER BANG",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 729,
+		"title" : "CLOSER BANG",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 730,
+		"title" : "CLOSER BANG",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 731,
+		"title" : "CLUB GRAFFITI",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 732,
+		"title" : "CLUB GRAFFITI",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 733,
+		"title" : "CLUB GRAFFITI",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 734,
+		"title" : "CLUB GRAFFITI",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 735,
+		"title" : "CLUB GRAFFITI",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 736,
+		"title" : "CLUE GRAIL",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 737,
+		"title" : "CLUE GRAIL",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 738,
+		"title" : "CLUELESS BUCKET",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 739,
+		"title" : "CLUELESS BUCKET",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 740,
+		"title" : "CLUELESS BUCKET",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 741,
+		"title" : "CLUELESS BUCKET",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 742,
+		"title" : "CLUELESS BUCKET",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 743,
+		"title" : "CLUELESS BUCKET",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 744,
+		"title" : "CLUELESS BUCKET",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 745,
+		"title" : "CLYDE THEORY",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 746,
+		"title" : "CLYDE THEORY",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 747,
+		"title" : "CLYDE THEORY",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 748,
+		"title" : "COAST RAINBOW",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 749,
+		"title" : "COAST RAINBOW",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 750,
+		"title" : "COAST RAINBOW",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 751,
+		"title" : "COAST RAINBOW",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 752,
+		"title" : "COAST RAINBOW",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 753,
+		"title" : "COLDBLOODED DARLING",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 754,
+		"title" : "COLDBLOODED DARLING",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 755,
+		"title" : "COLDBLOODED DARLING",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 756,
+		"title" : "COLDBLOODED DARLING",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 757,
+		"title" : "COLDBLOODED DARLING",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 758,
+		"title" : "COLOR PHILADELPHIA",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 759,
+		"title" : "COLOR PHILADELPHIA",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 760,
+		"title" : "COLOR PHILADELPHIA",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 761,
+		"title" : "COLOR PHILADELPHIA",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 762,
+		"title" : "COLOR PHILADELPHIA",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 763,
+		"title" : "COLOR PHILADELPHIA",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 764,
+		"title" : "COMA HEAD",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 765,
+		"title" : "COMA HEAD",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 766,
+		"title" : "COMA HEAD",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 767,
+		"title" : "COMA HEAD",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 768,
+		"title" : "COMA HEAD",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 769,
+		"title" : "COMA HEAD",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 770,
+		"title" : "COMA HEAD",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 771,
+		"title" : "COMANCHEROS ENEMY",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 772,
+		"title" : "COMANCHEROS ENEMY",
+		"rental_duration" : 5,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 773,
+		"title" : "COMFORTS RUSH",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 774,
+		"title" : "COMFORTS RUSH",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 775,
+		"title" : "COMFORTS RUSH",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 776,
+		"title" : "COMFORTS RUSH",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 19.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 777,
+		"title" : "COMMAND DARLING",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 778,
+		"title" : "COMMAND DARLING",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 779,
+		"title" : "COMMAND DARLING",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 780,
+		"title" : "COMMAND DARLING",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 781,
+		"title" : "COMMAND DARLING",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 782,
+		"title" : "COMMAND DARLING",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 28.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 783,
+		"title" : "CONEHEADS SMOOCHY",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 784,
+		"title" : "CONEHEADS SMOOCHY",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 785,
+		"title" : "CONEHEADS SMOOCHY",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 786,
+		"title" : "CONEHEADS SMOOCHY",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 787,
+		"title" : "CONEHEADS SMOOCHY",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 788,
+		"title" : "CONEHEADS SMOOCHY",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 789,
+		"title" : "CONEHEADS SMOOCHY",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 790,
+		"title" : "CONFESSIONS MAGUIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 791,
+		"title" : "CONFESSIONS MAGUIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 792,
+		"title" : "CONFESSIONS MAGUIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 793,
+		"title" : "CONFESSIONS MAGUIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 794,
+		"title" : "CONFESSIONS MAGUIRE",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 795,
+		"title" : "CONFIDENTIAL INTERVIEW",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 796,
+		"title" : "CONFIDENTIAL INTERVIEW",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 797,
+		"title" : "CONFIDENTIAL INTERVIEW",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 798,
+		"title" : "CONFIDENTIAL INTERVIEW",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 799,
+		"title" : "CONFIDENTIAL INTERVIEW",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 800,
+		"title" : "CONFIDENTIAL INTERVIEW",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 801,
+		"title" : "CONFIDENTIAL INTERVIEW",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 802,
+		"title" : "CONFIDENTIAL INTERVIEW",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 803,
+		"title" : "CONFUSED CANDLES",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 804,
+		"title" : "CONFUSED CANDLES",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 805,
+		"title" : "CONFUSED CANDLES",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 806,
+		"title" : "CONFUSED CANDLES",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 807,
+		"title" : "CONFUSED CANDLES",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 808,
+		"title" : "CONGENIALITY QUEST",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 809,
+		"title" : "CONGENIALITY QUEST",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 810,
+		"title" : "CONGENIALITY QUEST",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 811,
+		"title" : "CONGENIALITY QUEST",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 812,
+		"title" : "CONGENIALITY QUEST",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 813,
+		"title" : "CONGENIALITY QUEST",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 21.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 814,
+		"title" : "CONNECTICUT TRAMP",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 815,
+		"title" : "CONNECTICUT TRAMP",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 816,
+		"title" : "CONNECTICUT TRAMP",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 817,
+		"title" : "CONNECTION MICROCOSMOS",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 818,
+		"title" : "CONNECTION MICROCOSMOS",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 819,
+		"title" : "CONQUERER NUTS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 820,
+		"title" : "CONQUERER NUTS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 821,
+		"title" : "CONQUERER NUTS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 822,
+		"title" : "CONQUERER NUTS",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 823,
+		"title" : "CONSPIRACY SPIRIT",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 824,
+		"title" : "CONSPIRACY SPIRIT",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 825,
+		"title" : "CONTACT ANONYMOUS",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 826,
+		"title" : "CONTACT ANONYMOUS",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 827,
+		"title" : "CONTACT ANONYMOUS",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 828,
+		"title" : "CONTACT ANONYMOUS",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 829,
+		"title" : "CONTACT ANONYMOUS",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 830,
+		"title" : "CONTACT ANONYMOUS",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 831,
+		"title" : "CONTACT ANONYMOUS",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 832,
+		"title" : "CONTROL ANTHEM",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 9.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 833,
+		"title" : "CONTROL ANTHEM",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 9.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 834,
+		"title" : "CONVERSATION DOWNHILL",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 835,
+		"title" : "CONVERSATION DOWNHILL",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 836,
+		"title" : "CONVERSATION DOWNHILL",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 837,
+		"title" : "CONVERSATION DOWNHILL",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 838,
+		"title" : "CONVERSATION DOWNHILL",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 839,
+		"title" : "CONVERSATION DOWNHILL",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 840,
+		"title" : "CORE SUIT",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 841,
+		"title" : "CORE SUIT",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 842,
+		"title" : "CORE SUIT",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 843,
+		"title" : "CORE SUIT",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 844,
+		"title" : "CORE SUIT",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 845,
+		"title" : "COWBOY DOOM",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 846,
+		"title" : "COWBOY DOOM",
+		"rental_duration" : 3,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 10.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 847,
+		"title" : "CRAFT OUTFIELD",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 848,
+		"title" : "CRAFT OUTFIELD",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 849,
+		"title" : "CRAFT OUTFIELD",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 850,
+		"title" : "CRAFT OUTFIELD",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 17.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 851,
+		"title" : "CRANES RESERVOIR",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 852,
+		"title" : "CRANES RESERVOIR",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 853,
+		"title" : "CRANES RESERVOIR",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 12.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 854,
+		"title" : "CRAZY HOME",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 855,
+		"title" : "CRAZY HOME",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 856,
+		"title" : "CRAZY HOME",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 857,
+		"title" : "CREATURES SHAKESPEARE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 858,
+		"title" : "CREATURES SHAKESPEARE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 859,
+		"title" : "CREATURES SHAKESPEARE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 860,
+		"title" : "CREATURES SHAKESPEARE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 861,
+		"title" : "CREATURES SHAKESPEARE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 862,
+		"title" : "CREATURES SHAKESPEARE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 863,
+		"title" : "CREEPERS KANE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 864,
+		"title" : "CREEPERS KANE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 865,
+		"title" : "CREEPERS KANE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 866,
+		"title" : "CREEPERS KANE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 23.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 867,
+		"title" : "CROOKED FROGMEN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 868,
+		"title" : "CROOKED FROGMEN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 869,
+		"title" : "CROOKED FROGMEN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 870,
+		"title" : "CROOKED FROGMEN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 871,
+		"title" : "CROOKED FROGMEN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 872,
+		"title" : "CROOKED FROGMEN",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 873,
+		"title" : "CROSSROADS CASUALTIES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 874,
+		"title" : "CROSSROADS CASUALTIES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 875,
+		"title" : "CROSSROADS CASUALTIES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 876,
+		"title" : "CROSSROADS CASUALTIES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 877,
+		"title" : "CROSSROADS CASUALTIES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 878,
+		"title" : "CROSSROADS CASUALTIES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 879,
+		"title" : "CROSSROADS CASUALTIES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 880,
+		"title" : "CROSSROADS CASUALTIES",
+		"rental_duration" : 5,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 20.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 881,
+		"title" : "CROW GREASE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 882,
+		"title" : "CROW GREASE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 883,
+		"title" : "CROW GREASE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 884,
+		"title" : "CROW GREASE",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 885,
+		"title" : "CRUELTY UNFORGIVEN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 886,
+		"title" : "CRUELTY UNFORGIVEN",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 887,
+		"title" : "CRUSADE HONEY",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 888,
+		"title" : "CRUSADE HONEY",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 889,
+		"title" : "CUPBOARD SINNERS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 890,
+		"title" : "CUPBOARD SINNERS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 891,
+		"title" : "CUPBOARD SINNERS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 892,
+		"title" : "CUPBOARD SINNERS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 893,
+		"title" : "CUPBOARD SINNERS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 894,
+		"title" : "CUPBOARD SINNERS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 895,
+		"title" : "CUPBOARD SINNERS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 896,
+		"title" : "CUPBOARD SINNERS",
+		"rental_duration" : 4,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 29.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 897,
+		"title" : "CURTAIN VIDEOTAPE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 898,
+		"title" : "CURTAIN VIDEOTAPE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 899,
+		"title" : "CURTAIN VIDEOTAPE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 900,
+		"title" : "CURTAIN VIDEOTAPE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 901,
+		"title" : "CURTAIN VIDEOTAPE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 902,
+		"title" : "CURTAIN VIDEOTAPE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 903,
+		"title" : "CURTAIN VIDEOTAPE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 904,
+		"title" : "CURTAIN VIDEOTAPE",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 905,
+		"title" : "CYCLONE FAMILY",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 906,
+		"title" : "CYCLONE FAMILY",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 907,
+		"title" : "CYCLONE FAMILY",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 908,
+		"title" : "CYCLONE FAMILY",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 18.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 909,
+		"title" : "DADDY PITTSBURGH",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 910,
+		"title" : "DADDY PITTSBURGH",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 911,
+		"title" : "DADDY PITTSBURGH",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 912,
+		"title" : "DAISY MENAGERIE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 913,
+		"title" : "DAISY MENAGERIE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 914,
+		"title" : "DAISY MENAGERIE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 915,
+		"title" : "DAISY MENAGERIE",
+		"rental_duration" : 5,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 9.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 916,
+		"title" : "DALMATIONS SWEDEN",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 917,
+		"title" : "DALMATIONS SWEDEN",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 918,
+		"title" : "DALMATIONS SWEDEN",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 919,
+		"title" : "DALMATIONS SWEDEN",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 920,
+		"title" : "DALMATIONS SWEDEN",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 921,
+		"title" : "DALMATIONS SWEDEN",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 922,
+		"title" : "DANCES NONE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 923,
+		"title" : "DANCES NONE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 924,
+		"title" : "DANCES NONE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 925,
+		"title" : "DANCES NONE",
+		"rental_duration" : 3,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 926,
+		"title" : "DANCING FEVER",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 927,
+		"title" : "DANCING FEVER",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 928,
+		"title" : "DANCING FEVER",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 929,
+		"title" : "DANCING FEVER",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 930,
+		"title" : "DANCING FEVER",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 931,
+		"title" : "DANCING FEVER",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 932,
+		"title" : "DANCING FEVER",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 933,
+		"title" : "DANCING FEVER",
+		"rental_duration" : 6,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 25.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 934,
+		"title" : "DANGEROUS UPTOWN",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 935,
+		"title" : "DANGEROUS UPTOWN",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 936,
+		"title" : "DANGEROUS UPTOWN",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 937,
+		"title" : "DANGEROUS UPTOWN",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 26.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 938,
+		"title" : "DARES PLUTO",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 939,
+		"title" : "DARES PLUTO",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 940,
+		"title" : "DARES PLUTO",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 941,
+		"title" : "DARKNESS WAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 942,
+		"title" : "DARKNESS WAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 943,
+		"title" : "DARKNESS WAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 944,
+		"title" : "DARKNESS WAR",
+		"rental_duration" : 6,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 945,
+		"title" : "DARKO DORADO",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 946,
+		"title" : "DARKO DORADO",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 947,
+		"title" : "DARKO DORADO",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 948,
+		"title" : "DARLING BREAKING",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 949,
+		"title" : "DARLING BREAKING",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 950,
+		"title" : "DARN FORRESTER",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 951,
+		"title" : "DARN FORRESTER",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 952,
+		"title" : "DARN FORRESTER",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 953,
+		"title" : "DARN FORRESTER",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 954,
+		"title" : "DARN FORRESTER",
+		"rental_duration" : 7,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 14.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 955,
+		"title" : "DATE SPEED",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 956,
+		"title" : "DATE SPEED",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 957,
+		"title" : "DATE SPEED",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 958,
+		"title" : "DATE SPEED",
+		"rental_duration" : 4,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 19.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 959,
+		"title" : "DAUGHTER MADIGAN",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 960,
+		"title" : "DAUGHTER MADIGAN",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 961,
+		"title" : "DAUGHTER MADIGAN",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 962,
+		"title" : "DAUGHTER MADIGAN",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 963,
+		"title" : "DAWN POND",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 964,
+		"title" : "DAWN POND",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 965,
+		"title" : "DAWN POND",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 966,
+		"title" : "DAWN POND",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 967,
+		"title" : "DAWN POND",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 968,
+		"title" : "DAWN POND",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 969,
+		"title" : "DAY UNFAITHFUL",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 970,
+		"title" : "DAY UNFAITHFUL",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 971,
+		"title" : "DAY UNFAITHFUL",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 972,
+		"title" : "DAY UNFAITHFUL",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 973,
+		"title" : "DAY UNFAITHFUL",
+		"rental_duration" : 3,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 16.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 974,
+		"title" : "DECEIVER BETRAYED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 975,
+		"title" : "DECEIVER BETRAYED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 976,
+		"title" : "DECEIVER BETRAYED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 977,
+		"title" : "DECEIVER BETRAYED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 978,
+		"title" : "DECEIVER BETRAYED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 979,
+		"title" : "DECEIVER BETRAYED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 980,
+		"title" : "DECEIVER BETRAYED",
+		"rental_duration" : 7,
+		"rental_rate" : 0.99,
+		"replacement_cost" : 22.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 981,
+		"title" : "DEEP CRUSADE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 982,
+		"title" : "DEEP CRUSADE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 983,
+		"title" : "DEEP CRUSADE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 984,
+		"title" : "DEEP CRUSADE",
+		"rental_duration" : 6,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 20.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 985,
+		"title" : "DEER VIRGINIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 986,
+		"title" : "DEER VIRGINIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 987,
+		"title" : "DEER VIRGINIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 988,
+		"title" : "DEER VIRGINIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 989,
+		"title" : "DEER VIRGINIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 990,
+		"title" : "DEER VIRGINIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 991,
+		"title" : "DEER VIRGINIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 992,
+		"title" : "DEER VIRGINIAN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 13.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 993,
+		"title" : "DESERT POSEIDON",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 994,
+		"title" : "DESERT POSEIDON",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "47 MySakila Drive"
+	},
+	{
+		"inventory_id" : 995,
+		"title" : "DESERT POSEIDON",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 996,
+		"title" : "DESERT POSEIDON",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 997,
+		"title" : "DESERT POSEIDON",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 998,
+		"title" : "DESERT POSEIDON",
+		"rental_duration" : 4,
+		"rental_rate" : 4.99,
+		"replacement_cost" : 27.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 999,
+		"title" : "DESIRE ALIEN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	},
+	{
+		"inventory_id" : 1000,
+		"title" : "DESIRE ALIEN",
+		"rental_duration" : 7,
+		"rental_rate" : 2.99,
+		"replacement_cost" : 24.99,
+		"address" : "28 MySQL Boulevard"
+	}
+]
